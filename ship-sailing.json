@@ -1,0 +1,20 @@
+{
+    "frames":[
+        {
+            "position":{"x":0,"y":0,"w":2000,"h":2000},
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{"x":0,"y":0,"w":2000,"h":2000},
+            "sourceSize":{"w":2000,"h":2000}
+        }
+        {
+            "position":{"x":2000,"y":0,"w":2000,"h":2000},
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{"x":0,"y":0,"w":2000,"h":2000},
+            "sourceSize":{"w":2000,"h":2000}
+        }
+        
+    ]
+}    
+  
